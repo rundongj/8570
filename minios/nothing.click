@@ -1,0 +1,1 @@
+FromDevice -> MyNothingElement -> ToDevice;
